@@ -1,4 +1,4 @@
-#Network Analysis of Word Vectors
+# Network Analysis of Word Vectors
 
 ![Image](img/k7.png)
 
