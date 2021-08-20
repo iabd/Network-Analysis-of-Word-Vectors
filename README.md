@@ -17,3 +17,8 @@ This project is a part of semester credits in Social Network Analysis. As per pr
 The codes are heavily utilizing [NDlib](https://ndlib.readthedocs.io/en/latest/) and [networkX](https://networkx.org) which can be installed using
 
 `$pip install ndlib networkx` 
+
+
+#### Dataset
+
+The dataset used for the creation of word-embedding is [Sentiment140 dataset](https://www.kaggle.com/kazanova/sentiment140). Sentiment140 is a collection of 1.6 million tweets extracted using the Twitter API.  
